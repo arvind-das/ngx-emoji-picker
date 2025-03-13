@@ -1,3 +1,4 @@
+This is a fork from [ahkohd/ngx-emoji-picker](https://github.com/ahkohd/ngx-emoji-picker)
 [![npm version](https://badge.fury.io/js/ngx-emoji-picker.svg)](https://badge.fury.io/js/ngx-emoji-picker)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->

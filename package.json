@@ -1,6 +1,6 @@
 {
-  "name": "ngx-emoji-mart",
-  "version": "0.0.1",
+  "name": "@arvind-das/ngx-emoji-mart",
+  "version": "0.0.2",
   "scripts": {
     "ng": "ng",
     "start": "export NODE_OPTIONS='--openssl-legacy-provider --max_old_space_size=5048' && ng serve",
@@ -48,5 +48,21 @@
     "tslib": "2.0.0",
     "tslint": "6.1.0",
     "typescript": "4.0.8"
-  }
+  },
+  "description": "[![npm version](https://badge.fury.io/js/ngx-emoji-picker.svg)](https://badge.fury.io/js/ngx-emoji-picker)",
+  "main": "main.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvind-das/ngx-emoji-picker.git"
+  },
+  "keywords": [
+    "ngx",
+    "ngx-emoji-picker"
+  ],
+  "author": "Arvind Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvind-das/ngx-emoji-picker/issues"
+  },
+  "homepage": "https://github.com/arvind-das/ngx-emoji-picker#readme"
 }
