@@ -1,6 +1,6 @@
 {
-  "name": "@arvind-das/ngx-emoji-picker2",
-  "version": "0.0.2",
+  "name": "ngx-emoji-picker2",
+  "version": "0.0.3",
   "scripts": {
     "ng": "ng",
     "start": "export NODE_OPTIONS='--openssl-legacy-provider --max_old_space_size=5048' && ng serve",
