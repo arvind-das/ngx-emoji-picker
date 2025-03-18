@@ -1,11 +1,11 @@
 {
   "name": "ngx-emoji-picker2",
   "author": {
-    "name": "Victor Aremu",
-    "email": "victor.olorunbunmi@gmail.com",
+    "name": "Arvind Das",
+    "email": "dass.arvind@gmail.com",
     "url": "https://github.com/arvind-das/ngx-emoji-picker"
   },
-  "version": "0.0.3",
+  "version": "0.0.12",
   "description": "A simple emoji picker for Angular 2+ / Ionic 3 with AOT build support",
   "keywords": [
     "emoji",
