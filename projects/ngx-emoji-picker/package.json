@@ -5,7 +5,7 @@
     "email": "dass.arvind@gmail.com",
     "url": "https://github.com/arvind-das/ngx-emoji-picker"
   },
-  "version": "0.0.12",
+  "version": "0.1.12",
   "description": "A simple emoji picker for Angular 2+ / Ionic 3 with AOT build support",
   "keywords": [
     "emoji",
@@ -24,8 +24,8 @@
   "homepage": "https://github.com/arvind-das/ngx-emoji-picker",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^10.2.5",
-    "@angular/core": "^10.2.5",
+    "@angular/common": "^12.2.17",
+    "@angular/core": "^12.2.17",
     "twemoji": "^13.0.1"
   },
   "whitelistedNonPeerDependencies": [
