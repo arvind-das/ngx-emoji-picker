@@ -11,7 +11,7 @@
       "schematics": {},
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:browser",
+          "builder": "@angular-devkit/build-angular:ng-packagr-builder",
           "options": {
             "aot": true,
             "outputPath": "dist/ngx-emoji-mart",
